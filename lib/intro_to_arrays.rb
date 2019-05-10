@@ -1,5 +1,5 @@
 def instantiate_new_array
-  new_array = [1, 2, 3, 4]
+  new_array = []
   return new_array
 end
 
